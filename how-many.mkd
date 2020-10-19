@@ -1,7 +1,7 @@
 ---
-title: How often and how long should IETF virtual meetings be
-abbrev: MASA Considerations
-docname: draft-richardson-shmoo-how-many-fine-dinners-00
+title: How often and how long should IETF virtual meetings be?
+abbrev: Dinners and Lunches
+docname: draft-richardson-shmoo-how-many-fine-dinners-01
 
 ipr: trust200902
 area: Internet
@@ -84,6 +84,8 @@ IETF 108 would be best described as a sprint.
 
 # Suggestions for future meetings
 
+## Principles for for Recommendations
+
 There is great utility in having all of the IETF members present and available together.
 Doing this in-person has many great benefits (and many costs internal and external), not  enumerated here.
 
@@ -95,15 +97,22 @@ little knowledge.
 To be fair, there is some significant negative experience with mic comments like,
    "I haven't read the document, but..."
 
-Yet, often these comments *do* lead to significant issues.
+Yes, often these comments *do* lead to significant amounts of friction.
+Time wasted at the mic explaining that that were covered in the document.
 
 Sometimes, though, they lead to an understanding that two WGs are facing the same
 issues, and that they should work together.
 And getting this understanding is really quite valuable.
 
 This is *PARTICULARLY* the case for new work (BOFs), and for the first few meetings of a newly formed WG.
+One of the important thing for many individuals to internalize what the boundaries of the new work is, and what the overlap with the work they are doing is.
+This often comes about from the discussions that go around slide ware, to seeing who else cares about this work, and why.
 
-This is also why heavily conflicted (physical) meeting schedules have been a growing issue.
+Heavily conflicted (physical) meeting schedules have been a growing issue, with the result that many people do not have the time (due to conflicts), or the energy (due to exhaustion) to pay attention to the new work.
+
+## Recommendations on meeting structure
+
+### Encourage Virtual Interim meetings for ongoing work
 
 This document therefore recommends that the IETF encourage a healthy growth of virtual interim meetings which are:
 
@@ -111,50 +120,69 @@ This document therefore recommends that the IETF encourage a healthy growth of v
 2. frequent participant-time-zone optimized
 3. typically occur at twice-monthly to monthly intervals appropriate for getting work done.
 
+### Allow IETF Virtual meeting week to focus on community-wide activities
+
 While the IETF mission statement is very outcome focused, that doesn't mean that
-every activity needs to be only outcome focused.  I think that the IETF "plenary" meeting times   should be arranged to not just permit, but encourage cross-working-group participation.
+every activity needs to be only outcome focused.
+I think that the IETF "plenary" meeting times   should be arranged to not just permit, but encourage cross-working-group participation.
 
 This document suggests that the IETF virtual meeting week be focused on:
 
-1. meta-activites like IESG, IAB, NOMCOM
+1. governance and meta-activites like IESG, IAB, NOMCOM
 2. *DISPATCH activities
-3. BOFs
-4. new WG meetings,
-5. maybe WGs who have gone through some major milestone, and are rechartering
+3. BOFs for new work
+4. newly formed WG meetings,
+5. maybe WGs who have gone through some major milestone, and are for instance, rechartering
 
 Rather than attempt to compress the schedule down so that the time between the beginning of the day and the end of the day is as short as possible,  we should instead arrange the schedule with generous break intervals to accomodate adhoc 1:1 or rather-small-group meetings.
 
+That is, the "hallway session" needs some time and space to be useful.
+
 In particular, having some gaps where a person can reasonably expect to track down someone else to chat about a specific thing, or just to catch up.
 
-This is to simulate the "hallway" discussion over cookies.
+We used to stimulate the "hallway" discussion using cookies and beverages.
+
 Often this is the best way to talk though DISCUSSes among ADs and document authors.
-The gather.town was exceptionally useful for this.
+
+Those that used the gather.town system, found it was exceptionally useful for this.
+
+### Number of Tracks for virtual meetings
 
 This document recommends that we have fewer tracks.
 Somewhere between two and four.
 
-That is, like IETF108 and more like IETF107.  A few more tracks, and slightly longer days.
+That is, like IETF108 and more like IETF107.
+A few more tracks, and slightly longer days.
 
 This document does not recommend that the schedule be adjusted to accomodate all the time zones.  Because of where the Pacific Ocean is, that pretty much always puts noon somewhere near Greenwich.
 
-The 1-1-1-* process should mean that the locale chosen for the cancelled physical meeting defines the time zone.    Participants should be expected to "travel" to that time zone: many trips take 24 to 36 hours of airplane time, and asking participants to take a similiar amount of time to adjust their body clocks is not unreasonable.
+The 1-1-1-* process should mean that the locale chosen for the cancelled physical meeting defines the time zone.
+Participants should be expected to "travel" to that time zone: many physical trips take 24 to 36 hours of airplane time, and asking participants to take a similiar amount of time to adjust their  body clocks is not unreasonable.
+
 Once a year, the participants will find they have to do almost no adjustment, when the meeting is "near" them.
 
 Meetings should be restricted to between a 4 and 7 day period though, which gives them some time to adjust before "returning" to work the next week.
 
 Historical meetings have accomodated in excess of 200 hours of session time.
-(Eight hours/day X 4.5 days X eight tracks = 288 hours).
+(Eight hours/day X 4.5 days X eight tracks = 288 hours, minus some for the plenary).
 
 The virtual meeting should restrict itself to approximately 100 hours of session time.
 6 sessions of 50 minutes, with ~30 minute breaks between, over 4 tracks, and over 4 days gives 90 hours of session time.  This calculation does not count time for a plenary where there is only one track.  This formula is intended to be a guideline only.
 
+Note that for many, conflicts mean that they have to view the session after the fact via Youtube.
+While the "play back at 2x speed" can be effective for some listeners,  this can result
+in significant number of extra hours of time for the meeting.
+
 Rather than compete for available plenary-week WGs slots, WGs should compete to demonstrate that  they don't need a slot.
+
 Having a plenary-week slot should mean that additional "supervision" is required :-)
 Either because the WG is very new, or because the WG is old and has lost it's way.
 
 # Security Considerations
 
-The excessive use of caffeine and sugar to adjust jet lag may have health effects on the participants.  In addition, there is some possibility that decisions made under such influence might negatively affect the security of the Internet.   Multiple reviews are always better.
+The excessive use of caffeine and sugar to adjust jet lag may have health effects on the participants.
+In addition, there is some possibility that decisions made under such influence might negatively affect the security of the Internet.
+Multiple reviews after periods of "sober second thought" should catch any such poor decisions.
 
 # IANA Considerations
 
@@ -162,7 +190,7 @@ This document makes no requests to IANA.
 
 # Acknowledgements
 
-Hello.
+YOUR NAME HERE.
 
 # Changelog
 
