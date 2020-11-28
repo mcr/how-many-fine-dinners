@@ -152,6 +152,30 @@ This document therefore recommends that the IETF encourage a healthy growth of v
 2. frequent participant-time-zone optimized
 3. typically occur at twice-monthly to monthly intervals appropriate for getting work done.
 
+There is a significant self-selection problem with virtual interims and participants.
+
+In groups where the use of virtual interim meetings are used a lot, the choice of time zone in which to hold the virtual interim meeting can determine who attends.
+When the virtual interim time zone selects against participants from a particular part of the world then they tend to participant less.
+If the working group then does a poll of participants as to what time zone to use, then having lost participants from the less popular time zone, the result is likely to reinforce this selection.
+
+This suggests that virtual interim meeting time zones should not *always* be chosen according to popularity (such as "doodle" poll).
+But, at the same time, a working group which is highly focused and doing good work should be forced to work at inconvenient times.
+There is a definite tussle here!
+
+The IESG is encouraged to find ways to insert some variation in meeting time.
+This needs to be done with care, and with some amount of sharing of the pain among different working groups as well.
+
+#### 1500UTC
+
+The 1500 Central European time (in whichever Daylight Savings is active), corresponds to 7AM Pacific, 10AM Eastern, 2PM (UK), 3PM (Paris), 4PM (Helsinki), and 10PM Beijing.
+This time period is used for IESG Thursday meetings, and is popular because it accomodating to many participants.
+It is hostile to Eastern Australia, New Zealand and Hawaii participants.
+Fundamentally, the lack of people who live in the Pacific ocean biases the time zones to those which are daytime in Europe, which is essentially in the middle.
+
+It is therefore difficult to "share the pain" --- those at the extremes (Pacific North America, and Asia/Pacific) will find the times picked to almost always be annoying.
+To be clear: while a meeting could be planned for early evening (16:00) in San Jose, which is early morning in Tokyo (9AM), it would be outside of office hours, or even night for most everyone else in the world.
+
+
 ### Allow IETF Virtual meeting week to focus on community-wide activities
 
 While the IETF mission statement is very outcome focused, that doesn't mean that
