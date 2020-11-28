@@ -163,8 +163,9 @@ This document suggests that the IETF virtual meeting week be focused on:
 1. governance and meta-activites like IESG, IAB, NOMCOM
 2. *DISPATCH activities
 3. BOFs for new work
-4. newly formed WG meetings,
-5. maybe WGs who have gone through some major milestone, and are for instance, rechartering
+4. growing the virtual Hackathon
+5. newly formed WG meetings,
+6. maybe WGs who have gone through some major milestone, and are for instance, rechartering
 
 Rather than attempt to compress the schedule down so that the time between the beginning of the day and the end of the day is as short as possible,  we should instead arrange the schedule with generous break intervals to accomodate adhoc 1:1 or rather-small-group meetings.
 
