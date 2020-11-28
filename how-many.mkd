@@ -36,8 +36,12 @@ This document recommends virtual meetings be planned a reduced amount of overlap
 
 # Introduction
 
-IETF107 was the first pandemic IETF virtual meeting held in March 2020.
-IETF108 was the second pandemic IETF virtual meeting held in July 2020.
+IETF107 (Vancouver) was the first pandemic IETF virtual meeting held in March 2020.
+IETF108 (Madrid) was the second pandemic IETF virtual meeting held in July 2020.
+IETF109 (Bangkok) was the third pandemic IETF virtual meeting held in November 2020.
+
+IETF110 (Prague), will be held as a virtual meeting in March 2021.
+It is unknown at the time of this writing whether IETF111 (San Francisco) will be possible.
 
 ## IETF 107 experience
 
@@ -80,7 +84,35 @@ See, for instance https://mailarchive.ietf.org/arch/msg/suit/OcyNDcssHW8NUrCxGMz
 Some WGs declined to schedule meetings at IETF108.  This was due to a combination of scheduling,
 timezones and the fee to attend.  WGs that did this usually had a healthy and regular set of virtual interim meetings that were ongoing.
 
-IETF 108 would be best described as a sprint.
+To some, IETF 108 felt like a sprint: others felt that the pace, while intense was okay if one paced oneself well.
+
+## IETF 109 experience
+
+IETF109 consisted of a heavy week similiar to IETF108.
+
+Eight simultaneous tracks were scheduled.  Each day had a two hour slot, a thirty minute break, a one hour slot, another 30 minute break, and then a two hour slot.
+
+Survey feedback said that participants perferred that the meeting time be as compressed as possible, so the total meeting duration was 6 hours long.
+
+The day started in afternoon "Bangkok" (UTC+7hours: 1pm) time and ended before dinner time.
+
+Participants on the West coast of North America (California, Vancouver, Seattle, etc.)
+were 16 hours behind, so the meeting time of 0600 UTC worked out to start at 2100 (PST) the night before, and went until 0300 (PST).  It was a late night for those participants.
+
+Participants on the East coast of North America (Toronto, Boston, NYC, Atlanta, etc.)
+were 13 hours behind, so the meeting time of 0600 UTC worked out to start at 0000 (EST) the night before, and went until 0600 (EST).   Participants either slept during the day
+(7am to 3pm) and then got up and spent the evening with their family, or they slept during the afternoon/evening (3pm to 10pm), and got up and joined "first thing".  Those who slept during the day usually did so because that's when their house was quiet (partner at work, children at school): they did the meeting at the end of their day.  Those who slept in the evening, seemed to cite being able to collaborate with European colleagues after the meeting, during the European "day"
+
+Participants in Europe found the meeting start time of 0600UTC meant that they had get up a bit early.  (This experience was similiar to the IETF108 experience for East Coast north Americans)  They meeting then occupied most of their day.
+
+At the time of this writing, no feedback from Pacific/Asian participants was received. Input is sought.
+
+Side meetings were a challenge: a few had side meetings during the 30 minute breaks, but many people socialized on gather.town.  This was also used for one on one follow-up discussions.  Getting more food, drink, and attending to washroom needs were also important to most participants.
+
+A few side meetings were called for after the meeting time, that is after 1200UTC.
+This was convenient for Europeans and Asian participants, and East Coast participants who slept in the evening, but it did not work for West Coast participants at all.
+
+IETF109 seemed much better attended than IETF108.
 
 # Suggestions for future meetings
 
