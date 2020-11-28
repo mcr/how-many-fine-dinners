@@ -1,7 +1,7 @@
 ---
 title: How often and how long should IETF virtual meetings be?
 abbrev: Dinners and Lunches
-docname: draft-richardson-shmoo-how-many-fine-dinners-01
+docname: draft-richardson-shmoo-how-many-fine-dinners-02
 
 ipr: trust200902
 area: Internet
